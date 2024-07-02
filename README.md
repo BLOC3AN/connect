@@ -1,3 +1,14 @@
+# Comment to git
+<code>
+echo "# connect" >> README.md <br> 
+git init <br>
+git add README.md <br>
+git commit -m "first commit" <br>
+git branch -M main <br>
+git remote add origin https://github.com/BLOC3AN/connect.git <br>
+git push -u origin main <br>
+</code><br>
+
 # Intro
 Mở Port trên Ubuntu nhằm nhiều mục đích khác nhau nhưng đa số là nhằm các mục đích dưới đây:
 
